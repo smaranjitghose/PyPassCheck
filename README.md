@@ -1,2 +1,2 @@
-# PyPassCheck
-Checking the strength of passwords using Vanilla Logistic Regression
+# PyPassCheck 
+Passwords are a vital component of system security. Though there are many alternatives to passwords for access control, password is the more compellingly authenticating the identity in many applications. They provide a simple, direct means of protecting a system and they represent the identity of an individual for a system. The big vulnerability of passwords lies in their nature. Users are consistently told that a strong password is essential these days to protect private data as there are so many ways for an unauthorized person with little technical knowledge or skill to learn the passwords of legitimate users. Thus it is important for organizations to recognize the vulnerabilities to which passwords are subjected, and develop strong policies governing the creation and use of passwords to ensure that those vulnerabilities are not exploited
